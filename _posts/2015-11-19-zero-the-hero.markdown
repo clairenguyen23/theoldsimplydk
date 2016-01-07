@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Zero the Hero"
+author: "DK Nguyen"
 date:   2015-11-19 13:37:28
 ---
 Well, because “first the worst.”
@@ -11,5 +12,5 @@ People can hate him when he appears by himself on test exams. But that’s not h
 
 I’m sure Zero has blood type O, too. Zero has nothing but only himself to give, wholeheartedly, over and over.
 
-And that is why my first post will be called “Zero the Hero.” Thanks, Mr. Zero.
+And that is why my first post will be called “Zero the Hero.”
 
