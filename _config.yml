@@ -2,9 +2,11 @@
 title: simplyDK
 email: dkknguyen23@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Come here from time to time to find small treasures and surprises.
+  Write an AWESOME description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your FEED.XML site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://simplydk.com
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username: simplydk
 
 # Build settings
