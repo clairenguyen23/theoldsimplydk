@@ -152,13 +152,11 @@ pre {
   position: relative; }
 
 .site-title {
-  font-size: 58px;
-  line-height: 100px;
-  letter-spacing: 5px;
+  font-size: 26px;
+  line-height: 56px;
+  letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
-  font-weight: 400;
-  font-family: "Goudy Old Style"; }
+  float: left; }
   .site-title, .site-title:visited {
     color: #bfbfbf; }
 
